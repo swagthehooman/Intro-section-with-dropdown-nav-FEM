@@ -86,6 +86,7 @@ h6 {
 
 body{
     background-color: var(--clr-neutral-white);
+    font-family: 'Epilogue', sans-serif;
 }
 
 footer{
